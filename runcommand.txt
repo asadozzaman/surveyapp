@@ -1,0 +1,24 @@
+rnfe -- shortcut
+For Navigation
+
+1. npm install @react-navigation/native
+2. npm install react-native-screens react-native-safe-area-context
+3. npm install @react-navigation/stack
+4. npm install react-native-gesture-handler
+5. npm install @react-native-masked-view/masked-view
+
+
+firebase setup
+
+1. npm install --save @react-native-firebase/app
+2. npm install @react-native-firebase/auth
+3. npm install @react-native-firebase/firestore
+
+image
+1. npm install react-native-image-picker
+2. npm install @react-native-firebase/firestore
+3. npm install @react-native-firebase/storage
+
+icons
+4. npm i react-native-vector-icons
+5. npx react-native link react-native-vector-icons

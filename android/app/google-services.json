@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "88804878375",
+    "project_id": "hflourishing-ee232",
+    "storage_bucket": "hflourishing-ee232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88804878375:android:7d89865ed81d70540b4602",
+        "android_client_info": {
+          "package_name": "com.hflourishing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88804878375-uroq88v9jf58tjv0em9otghp10u6s2vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hflourishing",
+            "certificate_hash": "7ed9a4ace6d129f78aa52c6121d8c4aa874b0761"
+          }
+        },
+        {
+          "client_id": "88804878375-i5h20rco7lao6fum1qfeg0m75rks8335.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC96OsKTGe1mrxpbGMwziGDZ7nl-Oc9Nt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88804878375-i5h20rco7lao6fum1qfeg0m75rks8335.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88804878375-dngr55grqu00hpfglm2cuvu8o2ifu97a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hflourishing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88804878375:android:966a1365acb1bc820b4602",
+        "android_client_info": {
+          "package_name": "com.surveyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88804878375-i5h20rco7lao6fum1qfeg0m75rks8335.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC96OsKTGe1mrxpbGMwziGDZ7nl-Oc9Nt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88804878375-i5h20rco7lao6fum1qfeg0m75rks8335.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88804878375-dngr55grqu00hpfglm2cuvu8o2ifu97a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hflourishing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
